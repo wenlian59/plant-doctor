@@ -4,6 +4,7 @@
 
 1. **分类模型**（本地 MobileNetV2，38 类病害识别）对上传图片做初步分类，得到病害类别 + 置信度
 2. **Gemini API** 结合分类结果和原图，生成详细诊断报告（常见名、学名、健康状态、养护建议等）
+   （后来改成使用Qwen-VL-max模型）
 
 技术栈：Python + FastAPI + Transformers (PyTorch)
 
@@ -53,7 +54,7 @@ GEMINI_API_KEY=你的key
 # 代理地址（国内直连 Gemini 受限时需要，本地没有代理则删掉这一行）
 PROXY_URL=http://127.0.0.1:7897
 ```
-
+千问的api不需要加代理地址
 > ⚠️ `.env.local` 不要提交到 Git（已加入 `.gitignore`）。如果你的 key 曾经在聊天记录、截图等地方暴露过，请去 Google AI Studio 重新生成。
 
 #### 关于 `PROXY_URL`（重要，换机器/部署时必看）
@@ -245,3 +246,4 @@ npm install -g ngrok
 
 再运行ngrok http 3000即可
 
+<img width="2168" height="1410" alt="屏幕截图 2026-06-07 183322" src="https://github.com/user-attachments/assets/01466f52-871a-4397-a407-ca4ad2737fdc" />
