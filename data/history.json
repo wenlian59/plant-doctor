@@ -1,0 +1,779 @@
+[
+  {
+    "record_id": "rec_1781743901068_xkx",
+    "created_at": "2026-06-18T00:51:41Z",
+    "image_url": "/uploads/rec_1781743901068_xkx.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781743901068_xkx.jpg",
+    "identifier": {
+      "common_name": "冬青卫矛",
+      "scientific_name": "Euonymus japonicus",
+      "family": "卫矛科",
+      "confidence": 0.7017911076545715,
+      "about": "冬青卫矛是一种常绿灌木，广泛用于园林绿化。叶片革质，表面光滑，边缘有细锯齿。",
+      "tags": [
+        "常绿灌木",
+        "园林绿化",
+        "耐修剪"
+      ],
+      "edible_parts": [],
+      "common_aliases": [
+        "日本黄杨",
+        "锦熟黄杨"
+      ]
+    },
+    "schedule": {
+      "soil_type": "排水良好的壤土或沙质土，微酸性至中性为佳",
+      "fertilizer": "生长季节每月施一次复合肥，冬季停止施肥",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": 80.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 50.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": 50.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 50.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": 30.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "6-8小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "叶斑病",
+      "pathogen": "Alternaria spp.（链格孢属真菌）",
+      "severity": "moderate",
+      "confidence": 0.92,
+      "symptoms": [
+        "叶片上出现不规则形的褐色或灰黑色病斑，病斑边缘清晰，后期病斑中央易穿孔破裂",
+        "病斑周围可能出现黄色晕圈，严重时多个病斑融合导致叶片大面积枯死",
+        "病害初期病斑较小，随着病情发展逐渐扩大，影响叶片光合作用"
+      ],
+      "treatments": [
+        {
+          "title": "化学防治",
+          "detail": "发病初期及时喷洒70%代森锰锌可湿性粉剂600倍液，或50%多菌灵可湿性粉剂800倍液，每隔7-10天喷一次，连续2-3次。注意交替使用不同作用机制的杀菌剂以避免抗药性产生。"
+        },
+        {
+          "title": "物理防治",
+          "detail": "及时摘除并销毁病叶，减少病原菌的传播源。保持植株通风透光，避免过度密植，降低湿度有助于抑制病害发展。"
+        },
+        {
+          "title": "加强管理",
+          "detail": "合理施肥，增施磷钾肥以增强植株抗病能力；浇水时避免叶片积水，最好在早晨进行，确保叶片快速干燥。"
+        }
+      ],
+      "prevention": [
+        "选择抗病品种种植，从源头减少病害发生几率。",
+        "定期清理园内落叶和病残体，集中烧毁或深埋，消除越冬病原。",
+        "加强栽培管理，合理密植，保证植株间空气流通，降低湿度。",
+        "发病季节前，提前喷施保护性杀菌剂（如代森锰锌）进行预防，每10-14天一次，连续2-3次。"
+      ]
+    }
+  },
+  {
+    "record_id": "rec_1781743822492_xf0",
+    "created_at": "2026-06-18T00:50:22Z",
+    "image_url": "/uploads/rec_1781743822492_xf0.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781743822492_xf0.jpg",
+    "identifier": {
+      "common_name": "番茄",
+      "scientific_name": "Solanum lycopersicum",
+      "family": "茄科",
+      "confidence": 0.988263726234436,
+      "about": "番茄是一种一年生草本植物，广泛栽培于世界各地，果实可鲜食或加工成各种食品。",
+      "tags": [
+        "一年生植物",
+        "原产地：南美洲",
+        "经济作物",
+        "蔬菜"
+      ],
+      "edible_parts": [
+        "果实"
+      ],
+      "common_aliases": [
+        "西红柿",
+        "洋柿子",
+        "番茄果"
+      ]
+    },
+    "schedule": {
+      "soil_type": "排水良好的肥沃壤土，pH值6.0-7.0为佳",
+      "fertilizer": "生长初期施用平衡型复合肥，坐果后增加磷钾肥用量，每2周追肥一次",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 500.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": 400.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": 200.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "6-8小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "早疫病",
+      "pathogen": "Alternaria solani（链格孢菌）",
+      "severity": "moderate",
+      "confidence": 0.988,
+      "symptoms": [
+        "叶片上出现深褐色至黑色的圆形或不规则形病斑，病斑边缘有黄色晕圈，严重时病斑连片导致叶片枯黄脱落",
+        "病斑表面常有同心轮纹，呈靶心状",
+        "茎部和果实也可能受害，形成褐色病斑"
+      ],
+      "treatments": [
+        {
+          "title": "化学防治",
+          "detail": "发病初期开始喷洒保护性杀菌剂如代森锰锌、百菌清等，每隔7-10天一次，连续2-3次。发病中后期可选用内吸性杀菌剂如嘧菌酯、苯醚甲环唑等，注意轮换用药以防抗药性产生。"
+        },
+        {
+          "title": "农业防治",
+          "detail": "及时摘除病叶、病果并带出田外销毁，避免病害扩散；合理密植，改善通风透光条件；避免大水漫灌，提倡滴灌或膜下灌溉，降低田间湿度。"
+        }
+      ],
+      "prevention": [
+        "实行轮作制度，与非茄科作物轮作3年以上，减少土壤中病原菌积累",
+        "选用抗病品种种植，增强植株自身抗病能力",
+        "播种前对种子进行消毒处理，可用55℃温汤浸种10分钟或使用杀菌剂拌种",
+        "加强田间管理，保持清洁卫生，及时清除病残体，减少初侵染源"
+      ]
+    }
+  },
+  {
+    "record_id": "rec_1781702843152_5hv",
+    "created_at": "2026-06-17T13:27:23Z",
+    "image_url": "/uploads/rec_1781702843152_5hv.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781702843152_5hv.jpg",
+    "identifier": {
+      "common_name": "玫瑰",
+      "scientific_name": "Rosa spp.",
+      "family": "蔷薇科",
+      "confidence": 0.5131853818893433,
+      "about": "玫瑰是广泛栽培的观赏花卉，原产于亚洲、欧洲及北非。其花朵色彩丰富，香气浓郁，常用于园艺装饰、切花及提取精油。",
+      "tags": [
+        "观赏植物",
+        "盆栽植物",
+        "芳香花卉",
+        "蔷薇科"
+      ],
+      "edible_parts": [
+        "花瓣"
+      ],
+      "common_aliases": [
+        "月季",
+        "蔷薇",
+        "大花香水月季"
+      ]
+    },
+    "schedule": {
+      "soil_type": "疏松肥沃、排水良好的微酸性至中性土壤",
+      "fertilizer": "生长期每月施一次复合肥，花期前增施磷钾肥促进开花",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": 250.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 200.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": 150.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 150.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "6-8小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "黑斑病",
+      "pathogen": "Diplocarpon rosae（蔷薇盘孢霉）",
+      "severity": "moderate",
+      "confidence": 0.92,
+      "symptoms": [
+        "叶片上出现大小不一的黑色或深褐色圆形斑点，边缘清晰，后期病斑中央可能穿孔",
+        "严重时病斑密集，导致叶片提前枯黄脱落",
+        "嫩枝和花蕾也可能受到感染，出现褐色病斑"
+      ],
+      "treatments": [
+        {
+          "title": "化学防治",
+          "detail": "发病初期及时喷洒70%甲基硫菌灵可湿性粉剂800倍液，或50%多菌灵可湿性粉剂600倍液，每隔7-10天一次，连续2-3次。注意交替使用不同作用机制的杀菌剂以避免抗药性。"
+        },
+        {
+          "title": "修剪与清理",
+          "detail": "彻底剪除所有病叶、病枝，并集中销毁（不可堆肥），减少病原菌来源。保持植株通风透光，降低湿度。"
+        },
+        {
+          "title": "加强管理",
+          "detail": "避免叶片长时间湿润，浇水应选择晴朗天气的上午进行，尽量避免叶面喷水。施肥时注意平衡氮磷钾比例，防止徒长导致抗病力下降。"
+        }
+      ],
+      "prevention": [
+        "选择抗病品种种植，如‘伊丽莎白女王’等抗黑斑病玫瑰品种。",
+        "定期清理花园，清除落叶和病残体，减少越冬病原。",
+        "生长季节前（春季萌芽期）喷施保护性杀菌剂（如波尔多液）预防病害发生。",
+        "合理密植，保证植株间有良好通风，降低局部湿度。",
+        "避免连作，同一地块连续种植玫瑰不超过3年，必要时进行轮作。"
+      ]
+    }
+  },
+  {
+    "record_id": "rec_1781522320708_7qi",
+    "created_at": "2026-06-15T11:18:40Z",
+    "image_url": "/uploads/rec_1781522320708_7qi.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781522320708_7qi.jpg",
+    "identifier": {
+      "common_name": "番茄",
+      "scientific_name": "Solanum lycopersicum",
+      "family": "茄科",
+      "confidence": 0.8473340272903442,
+      "about": "番茄是一种一年生草本植物，原产于南美洲，广泛栽培于世界各地。其果实富含维生素C和抗氧化物质，是重要的蔬菜作物。",
+      "tags": [
+        "一年生植物",
+        "原产地：南美洲",
+        "经济作物",
+        "喜温作物"
+      ],
+      "edible_parts": [
+        "果实"
+      ],
+      "common_aliases": [
+        "西红柿",
+        "洋柿子",
+        "番茄果"
+      ]
+    },
+    "schedule": {
+      "soil_type": "排水良好、富含有机质的壤土或沙质土，pH值6.0-7.0为佳",
+      "fertilizer": "生长初期施用氮磷钾复合肥，坐果后增加钾肥用量以促进果实发育",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 500.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": 400.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": 200.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 200.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": 200.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "6-8小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "晚疫病",
+      "pathogen": "Phytophthora infestans（致病疫霉）",
+      "severity": "moderate",
+      "confidence": 0.85,
+      "symptoms": [
+        "叶片上出现不规则形暗绿色至褐色病斑，边缘界限不清，湿度大时病斑周围有白色霉层",
+        "病斑逐渐扩大并融合，导致叶片枯萎、变黄",
+        "茎部也可能受害，形成暗褐色条状病斑，严重时植株倒伏"
+      ],
+      "treatments": [
+        {
+          "title": "化学防治",
+          "detail": "发病初期及时喷施保护性杀菌剂如代森锰锌、霜脲氰等，每7-10天一次，连续2-3次；发病中后期可选用内吸性杀菌剂如氟吡菌胺、嘧菌酯等，注意轮换用药以防抗药性产生。"
+        },
+        {
+          "title": "农业防治",
+          "detail": "发现病叶立即摘除并带出田外销毁，避免病菌传播；加强田间管理，降低湿度，合理密植，改善通风透光条件。"
+        }
+      ],
+      "prevention": [
+        "选择抗病品种种植",
+        "实行轮作，避免连作",
+        "雨后及时排水，降低田间湿度",
+        "定期检查植株，发现病害早期预警"
+      ]
+    }
+  },
+  {
+    "record_id": "rec_1781522058373_8hu",
+    "created_at": "2026-06-15T11:14:18Z",
+    "image_url": "/uploads/rec_1781522058373_8hu.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781522058373_8hu.jpg",
+    "identifier": {
+      "common_name": "卫矛",
+      "scientific_name": "Euonymus alatus",
+      "family": "卫矛科",
+      "confidence": 0.7017911076545715,
+      "about": "卫矛是一种常见的观赏灌木，叶片对生，边缘有细锯齿。常用于园林绿化和绿篱。",
+      "tags": [
+        "观赏灌木",
+        "园林绿化",
+        "绿篱植物"
+      ],
+      "edible_parts": [],
+      "common_aliases": [
+        "翅果卫矛",
+        "鬼吹箫"
+      ]
+    },
+    "schedule": {
+      "soil_type": "排水良好的壤土或沙质土，微酸性至中性为佳",
+      "fertilizer": "生长季节每月施一次复合肥，秋季可增施磷钾肥促进抗寒",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 50.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": 40.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 20.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": 20.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 20.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": 20.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "6-8小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "叶斑病",
+      "pathogen": "Alternaria spp.（链格孢属真菌）",
+      "severity": "moderate",
+      "confidence": 0.92,
+      "symptoms": [
+        "叶片上出现不规则的褐色至黑色病斑，病斑边缘模糊，后期可能穿孔或干枯",
+        "病斑周围组织可能出现黄化现象",
+        "严重时病斑连片，导致叶片大面积枯死"
+      ],
+      "treatments": [
+        {
+          "title": "化学防治",
+          "detail": "发病初期喷施70%代森锰锌可湿性粉剂600倍液，或50%多菌灵可湿性粉剂800倍液，每隔7-10天喷一次，连续2-3次。"
+        },
+        {
+          "title": "清除病叶",
+          "detail": "及时摘除并销毁病叶，避免病原菌扩散。切勿将病叶堆肥，应装袋丢弃。"
+        },
+        {
+          "title": "改善环境",
+          "detail": "保持植株通风透光，避免过度密植。浇水时尽量避免叶片积水，最好在早晨进行。"
+        }
+      ],
+      "prevention": [
+        "选择抗病品种种植，增强植株自身抵抗力。",
+        "定期修剪，保持植株内部通风良好，减少病害发生几率。",
+        "雨季来临前，提前喷施保护性杀菌剂，如波尔多液或百菌清，预防病害侵染。"
+      ]
+    }
+  },
+  {
+    "record_id": "rec_1781365154067_9bs",
+    "created_at": "2026-06-13T15:39:14Z",
+    "image_url": "/uploads/rec_1781365154067_9bs.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781365154067_9bs.jpg",
+    "identifier": {
+      "common_name": "莲",
+      "scientific_name": "Nelumbo nucifera",
+      "family": "莲科",
+      "confidence": 0.33436325192451477,
+      "about": "莲，又称荷花、莲花，是多年生水生草本植物。叶片大而圆，浮于水面，具有独特的‘荷叶效应’。广泛分布于亚洲温暖地区，常用于观赏、食用和药用。",
+      "tags": [
+        "水生植物",
+        "多年生",
+        "原产地：亚洲",
+        "观赏与食用"
+      ],
+      "edible_parts": [
+        "种子（莲子）",
+        "嫩茎（藕）",
+        "花蕾"
+      ],
+      "common_aliases": [
+        "荷花",
+        "莲花",
+        "水芙蓉"
+      ]
+    },
+    "schedule": {
+      "soil_type": "池塘或水体底部的淤泥质土壤，需富含有机质。",
+      "fertilizer": "生长初期施用复合肥料，促进根系和叶片发育；花期前适量补充磷钾肥以提高开花质量。",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": 100.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "6-8小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "莲叶斑驳病",
+      "pathogen": "可能由真菌（如 Alternaria spp.）或细菌（如 Xanthomonas campestris pv. Nelumbonis）引起",
+      "severity": "moderate",
+      "confidence": 0.75,
+      "symptoms": [
+        "叶片边缘出现不规则的黑色或褐色斑点，部分区域已穿孔。",
+        "斑点周围组织轻微黄化，但未见明显的同心环纹。",
+        "叶片整体仍保持绿色，无大面积枯萎现象。"
+      ],
+      "treatments": [
+        {
+          "title": "清除病叶",
+          "detail": "及时摘除并销毁受病害影响严重的叶片，避免病原体扩散至其他健康叶片。"
+        },
+        {
+          "title": "喷施杀菌剂",
+          "detail": "使用多菌灵、代森锰锌等广谱杀菌剂，按照说明书稀释后均匀喷洒于叶片表面，每隔7-10天重复一次，连续2-3次。"
+        },
+        {
+          "title": "改善环境条件",
+          "detail": "保持池塘水质清洁，避免过度施肥导致藻类滋生，减少病原菌的繁殖机会。"
+        }
+      ],
+      "prevention": [
+        "选择抗病品种种植，增强植株自身抵抗力。",
+        "定期清理池塘中的残枝落叶，减少病原菌的越冬场所。",
+        "合理密植，保证植株间通风透光，降低湿度，抑制病原菌生长。"
+      ]
+    }
+  },
+  {
+    "record_id": "rec_1781364824747_sws",
+    "created_at": "2026-06-13T15:33:44Z",
+    "image_url": "/uploads/rec_1781364824747_sws.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781364824747_sws.jpg",
+    "identifier": {
+      "common_name": "番茄",
+      "scientific_name": "Solanum lycopersicum",
+      "family": "茄科",
+      "confidence": 0.988263726234436,
+      "about": "番茄是一种一年生草本植物，原产于南美洲，现广泛栽培于世界各地。其果实富含维生素C和番茄红素，是重要的蔬菜和水果。",
+      "tags": [
+        "一年生植物",
+        "原产地：南美洲",
+        "经济作物",
+        "蔬菜"
+      ],
+      "edible_parts": [
+        "果实"
+      ],
+      "common_aliases": [
+        "西红柿",
+        "洋柿子",
+        "番茄果"
+      ]
+    },
+    "schedule": {
+      "soil_type": "排水良好、富含有机质的壤土，pH值6.0-7.0为佳",
+      "fertilizer": "生长初期施用平衡型复合肥，坐果后增加磷钾肥用量，每2-3周追肥一次",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 500.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": 400.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 300.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": 200.0,
+          "sunlight_hours": "6-8小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "6-8小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "早疫病",
+      "pathogen": "Alternaria solani（链格孢菌）",
+      "severity": "moderate",
+      "confidence": 0.988,
+      "symptoms": [
+        "叶片上出现深褐色或黑色的圆形至不规则形病斑，病斑边缘有黄色晕圈，严重时病斑可连成片导致叶片枯黄脱落",
+        "病斑表面常有轮纹状排列的小黑点（分生孢子器）",
+        "果实也可受害，形成凹陷的黑褐色病斑，影响商品价值"
+      ],
+      "treatments": [
+        {
+          "title": "化学防治",
+          "detail": "发病初期开始喷洒保护性杀菌剂如代森锰锌、百菌清等，发病中期使用治疗性杀菌剂如唑醚·代森联、吡唑醚菌酯等，每隔7-10天喷一次，连续2-3次。注意轮换用药以避免抗药性产生。"
+        },
+        {
+          "title": "农业防治",
+          "detail": "及时摘除病叶、病果并带出田外集中销毁，减少病原菌来源；合理密植，改善通风透光条件；避免大水漫灌，提倡滴灌或膜下灌溉，降低田间湿度。"
+        }
+      ],
+      "prevention": [
+        "实行轮作制度，与非茄科作物轮作3年以上，避免连作导致病原菌积累",
+        "选用抗病品种种植，增强植株自身抗病能力",
+        "播种前对种子进行消毒处理，可用55℃温汤浸种10分钟或用多菌灵拌种，杀灭种子表面携带的病原菌",
+        "加强田间管理，保持土壤排水良好，适时适量施肥，增强植株长势"
+      ]
+    }
+  },
+  {
+    "record_id": "rec_1781354192347_0js",
+    "created_at": "2026-06-13T12:36:32Z",
+    "image_url": "/uploads/rec_1781354192347_0js.jpg",
+    "thumbnail": "/uploads/thumb_rec_1781354192347_0js.jpg",
+    "identifier": {
+      "common_name": "冬青卫矛",
+      "scientific_name": "Euonymus japonicus",
+      "family": "卫矛科 卫矛属",
+      "confidence": 0.7017911076545715,
+      "about": "冬青卫矛又称大叶黄杨，是常绿灌木。其叶革质有光泽，抗逆性强，极耐修剪，是城市绿化、绿篱和庭园美化的经典观叶植物，具有极佳的吸尘和净化空气能力。",
+      "tags": [
+        "常绿灌木",
+        "观叶植物",
+        "园林绿化",
+        "耐修剪"
+      ],
+      "edible_parts": [
+        "不可食用"
+      ],
+      "common_aliases": [
+        "大叶黄杨",
+        "四季青",
+        "冬青",
+        "Japanese Spindle"
+      ]
+    },
+    "schedule": {
+      "soil_type": "疏松肥沃、排水良好的微酸性至中性沙质壤土",
+      "fertilizer": "春秋生长旺季每半月施一次稀薄有机液肥，入冬前追施一次基肥",
+      "weekly": [
+        {
+          "day": "周一",
+          "water_ml": 200.0,
+          "sunlight_hours": "5-6小时"
+        },
+        {
+          "day": "周二",
+          "water_ml": null,
+          "sunlight_hours": "5-6小时"
+        },
+        {
+          "day": "周三",
+          "water_ml": 150.0,
+          "sunlight_hours": "5-6小时"
+        },
+        {
+          "day": "周四",
+          "water_ml": null,
+          "sunlight_hours": "5-6小时"
+        },
+        {
+          "day": "周五",
+          "water_ml": 150.0,
+          "sunlight_hours": "5-6小时"
+        },
+        {
+          "day": "周六",
+          "water_ml": null,
+          "sunlight_hours": "5-6小时"
+        },
+        {
+          "day": "周日",
+          "water_ml": null,
+          "sunlight_hours": "5-6小时"
+        }
+      ]
+    },
+    "diagnosis": {
+      "health_status": "diseased",
+      "disease_name": "炭疽病",
+      "pathogen": "Colletotrichum gloeosporioides（胶孢炭疽菌）",
+      "severity": "moderate",
+      "confidence": 0.92,
+      "symptoms": [
+        "叶片出现大面积褐色至灰褐色的枯死病斑，边缘呈深褐色，病健交界处有黄色晕圈",
+        "病斑表面长出特征性的、呈同心轮纹状排列的黑色小散点（即病菌的分生孢子盘）",
+        "局部病斑干燥、脆弱，易破裂脱落"
+      ],
+      "treatments": [
+        {
+          "title": "剪除病叶",
+          "detail": "立即剪除已感染的病叶和枯枝，并集中销毁或深埋，切勿随意丢弃，以切断病原菌的传播源"
+        },
+        {
+          "title": "化学药剂防治",
+          "detail": "在发病初期，使用 80% 代森锰锌可湿性粉剂 600-800 倍液，或 50% 多菌灵可湿性粉剂 500-800 倍液进行叶面喷雾，每隔 7-10 天喷一次，连续喷洒 2-3 次"
+        }
+      ],
+      "prevention": [
+        "避免头顶喷淋浇水，尽量从根部灌溉，减少叶片积水时间，降低湿度",
+        "定期修剪过密枝条，改善植株内部的通风透光条件",
+        "增施磷钾肥，避免偏施氮肥，以增强植株自身的抗病能力"
+      ]
+    }
+  }
+]
