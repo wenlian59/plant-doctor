@@ -55,6 +55,9 @@ GEMINI_API_KEY=你的key
 PROXY_URL=http://127.0.0.1:7897
 ```
 千问的api不需要加代理地址
+```
+# DASHSCOPE_API_KEY=你的key
+```
 > ⚠️ `.env.local` 不要提交到 Git（已加入 `.gitignore`）。如果你的 key 曾经在聊天记录、截图等地方暴露过，请去 Google AI Studio 重新生成。
 
 #### 关于 `PROXY_URL`（重要，换机器/部署时必看）
